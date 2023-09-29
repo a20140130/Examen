@@ -1,0 +1,14 @@
+body{
+    background-color: gold;
+}
+h1{
+    text-align: center;
+    width: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:brown
+}
+p{
+    text-align: center;
+    width: 30px;
+    color: brown;
+}
